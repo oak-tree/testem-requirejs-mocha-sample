@@ -10,6 +10,7 @@ require.config({
 		text : '/source/bower_components/requirejs-text/text',
 		app : '/source/scripts/js/app',
 		tpl : '/source/scripts/tpl',
+		'mocha' : '../source/bower_components/mocha/mocha',
 		'chai' : '/source/bower_components/chai/chai',
 		'chai-jquery' : '/source/bower_components/chai-jquery/chai-jquery',
 		'sinon-chai':  '/source/bower_components/sinon-chai/lib/sinon-chai.js',
