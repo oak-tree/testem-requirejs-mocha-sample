@@ -3,14 +3,12 @@ testem-requirejs-mocha-sample [![Build Status](https://travis-ci.org/teppeis/tes
 
 Sample project for Testing:
 
-
-
 * [Testem](https://github.com/airportyh/testem)
 * [RequireJS](http://requirejs.org/)
 * [Mocha](http://visionmedia.github.io/mocha/) with [expect.js](https://github.com/LearnBoost/expect.js/)
 * [Backbone](https://github.com/airportyh/testem)
-* [chai](http://chaijs.com/)
-* [sinon](http://sinonjs.org/) 
+* [Chai](http://chaijs.com/)
+* [Sinon](http://sinonjs.org/) 
 
 and some more..
 
