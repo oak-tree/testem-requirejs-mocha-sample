@@ -1,4 +1,6 @@
 framework: mocha
+launch_in_dev: 
+	- Chrome
 test_page: test/tests.mustache
 src_files:
     - test/**/*Test.js
