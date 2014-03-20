@@ -1,4 +1,5 @@
 framework: mocha
-test_page: test/testem.mustache
+test_page: test/tests.mustache
 src_files:
-    - test/**/*.js
+    - test/**/*Test.js
+    - test/**/*test.js
